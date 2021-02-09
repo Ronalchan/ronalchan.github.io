@@ -1,6 +1,6 @@
 ---
-title: '学术搜索技巧'
-date: 2018-12-15
+title: '个人项目1'
+date: 2020-12-15
 permalink: /posts/2018/12/scholar-search-tricks/
 tags:
   - 中文
