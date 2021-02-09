@@ -1,13 +1,10 @@
-# main links links
+ # main links links
 main:
   - title: "发表论文"
     url: /publications/
 
-  - title: "项目经历"
-    url: /year-archive/
-    
-  - title: "个人履历"
-    url: /cv&contact/    
+  # - title: "Awards & Honors"
+  #   url: /awards/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -17,13 +14,17 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
 
+  #- title: "My Lab"
+  #  url: /lab/
+
+  - title: "项目经历"
+    url: /year-archive/
+  
+  - title: "个人履历"
+    url: /cv&contact/  
+  
+  # - title: "中文介绍"
+  #  url: /chinese/  
+  
+  
