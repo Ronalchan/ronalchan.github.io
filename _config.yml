@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Chen Qian"
+locale                   : "zh-CN"
+title                    : "钱晨"
 title_separator          : "-"
-name                     : &name "Chen Qian"
-description              : &description "PhD student in Systems Engineering. University of Virginia"
+name                     : &name "钱晨"
+description              : &description "信息管理与信息系统研究生，弗吉尼亚大学"
 url                      : https://ronalchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ronalchan/ronalchan.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Qian"
+  name             : "钱晨"
   avatar           : "Chen_Qian.jpg"
-  bio              : "PhD student in Systems Engineering. University of Virginia"
+  bio              : "信息管理与信息系统研究生，弗吉尼亚大学"
   location         : "Virginia, USA"
   employer         :
   pubmed           : 
