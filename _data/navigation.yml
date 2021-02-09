@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "发表论文"
     url: /publications/
 
-  - title: "CV&Contact"
-    url: /cv&contact/
+  - title: "项目经历"
+    url: /year-archive/
     
-  - title: "Projects"
-    url: /projects/    
+  - title: "个人履历"
+    url: /cv&contact/    
 
   # - title: "Talks"
   #   url: /talks/    
