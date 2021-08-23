@@ -10,11 +10,7 @@ author_profile: true
   }
 </script>
 
-<iframe src="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf" frameborder="0" scrolling="no" onload="resizeIframe(this)">
- 
-浏览器不支持pdf在线预览，请点击下载<a href="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf">个人简历</a>
- 
-</iframe>
+<iframe src="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
 
 # 联系方式
 Email: qianchen6467@gmail.com, qianchen2019@163.com
