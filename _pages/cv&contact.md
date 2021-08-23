@@ -8,4 +8,4 @@ author_profile: true
 ![](https://ronalchan.github.io/files/cv/钱晨-弗吉尼亚大学研究生.png)
 
 # 联系方式
-Email: qianchen6467@gmail.com, qianchen2019@163.com
+Email: qianchen2019@163.com
