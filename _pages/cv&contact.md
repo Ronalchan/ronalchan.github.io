@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-<iframe src="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf" width="100%" height="100%">
+<iframe src="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf" width="100%" height="100%" frameborder="0" scrolling="no">
  
 浏览器不支持pdf在线预览，请点击下载<a href="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf">个人简历</a>
  
