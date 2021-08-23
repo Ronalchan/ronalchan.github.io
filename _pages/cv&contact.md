@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-<center>[个人简历PDF下载](https://ronalchan.github.io/files/cv/钱晨-弗吉尼亚大学研究生.pdf)</center>
+[[简历PDF下载]](https://ronalchan.github.io/files/cv/钱晨-弗吉尼亚大学研究生.pdf)
 ![](https://ronalchan.github.io/files/cv/钱晨-弗吉尼亚大学研究生.png)
 
 # 联系方式
