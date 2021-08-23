@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "自我介绍"
+title: "自我介绍"([简历](https://ronalchan.github.io/files/cv/钱晨-弗吉尼亚大学研究生.pdf))
 excerpt: "About me"
 author_profile: true
 redirect_from: 
